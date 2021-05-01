@@ -2,7 +2,7 @@
 locale                   : "en"
 title                    :
 name                     : "Kyumin's Website"
-description              : "Kyumin's Portfolio"
+description              : 
 url                      : https://miniprime1.github.io
 markdown                 : kramdown
 
