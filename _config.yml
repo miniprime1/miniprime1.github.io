@@ -1,7 +1,6 @@
 # Site Settings
 locale                   : "en"
-title                    : "miniprime1"
-title_separator          : "-"
+title                    :
 name                     : "Kyumin's Website"
 description              : "Kyumin's Portfolio"
 url                      : https://miniprime1.github.io
