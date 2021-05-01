@@ -1,2 +1,15 @@
-title: miniprime1
-description: Kyumin's Portfolio
+# Site Settings
+locale                   : "en"
+title                    : "miniprime1"
+title_separator          : "-"
+name                     : "Kyumin's Website"
+description              : "Kyumin's Portfolio"
+url                      : https://miniprime1.github.io
+
+# GitHub
+baseurl                  : /
+repository               : miniprime1/miniprime1.github.io
+
+# Site Author
+author:
+  name             : "Kyumin"
