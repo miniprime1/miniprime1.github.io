@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=200&section=header&fontSize=90)
-
 <div align = "center">
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=200&section=header&fontSize=90)
 
 <br/><br/>
 <strong>♡Kyumin♡</strong><br><br>
@@ -37,13 +37,10 @@ I’m also interested in movies.
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://devdocs.io/javascript/)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
 
-
-</div>
-
 <br/><br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=83dcb7&height=200&section=footer&fontSize=90)
 
-
+</div>
 
 
