@@ -1,5 +1,3 @@
-<div align = "center">
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=200&section=header&fontSize=90)
 
 <br/><br/>
@@ -40,7 +38,5 @@ I’m also interested in movies.
 <br/><br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=83dcb7&height=200&section=footer&fontSize=90)
-
-</div>
 
 
