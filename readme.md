@@ -1,4 +1,6 @@
 # Kyumin's Website
-- Name + Bio
-- Site Info + E-mail
-- Programming language
+- Name
+- Bio
+- Number of Visitors
+- E-mail
+- Programming languages
