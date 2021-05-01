@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=200&section=header&fontSize=90)
 
 <br/><br/>
@@ -5,7 +7,6 @@
 Hello, I'm Kyumin [miniprime1].<br>
 I am a fan of programming, games.<br>
 I’m also interested in movies.
-
 
 <br/>
 
@@ -39,4 +40,4 @@ I’m also interested in movies.
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=83dcb7&height=200&section=footer&fontSize=90)
 
-
+</div>
