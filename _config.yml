@@ -18,6 +18,7 @@ author:
 # Site Files
 include:
   - index.html
+  - /img/favicon.png
 exclude:
   - index.md
   - license.txt
