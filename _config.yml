@@ -1,7 +1,7 @@
 # Site Settings
 locale                   : "en"
-title                    :
 name                     : "Kyumin's Website"
+title                    :
 description              : 
 url                      : https://miniprime1.github.io
 markdown                 : kramdown
@@ -13,3 +13,10 @@ repository               : miniprime1/miniprime1.github.io
 # Site Author
 author:
   name             : "Kyumin"
+  bio              : "Hey, I’m Kyumin [miniprime1] living in South Korea. I am a fan of programming and games. I’m also interested in movies."
+
+# Site Files
+include:
+  - index.html
+exclude:
+  - index.md
