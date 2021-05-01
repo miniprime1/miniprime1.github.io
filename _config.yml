@@ -20,3 +20,5 @@ include:
   - index.html
 exclude:
   - index.md
+  - license.txt
+  - readme.md
