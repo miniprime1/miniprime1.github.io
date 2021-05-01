@@ -4,7 +4,7 @@ title                    :
 name                     : "Kyumin's Website"
 description              : "Kyumin's Portfolio"
 url                      : https://miniprime1.github.io
-markdown                 : GFM
+markdown                 : 1
 
 # GitHub
 baseurl                  : /
