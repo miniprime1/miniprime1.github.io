@@ -14,11 +14,11 @@ I’m also interested in movies.
 ●●●
 
 <br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/miniprime1&icon=&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:godbros.miniprime@gmail.com)](mailto:godbros.miniprime@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:miniprime@outlook.com)](mailto:miniprime@outlook.com)
-[![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=iCloud&logoColor=white&link=mailto:godbros.miniprime@icloud.com)](mailto:godbros.miniprime@icloud.com)
+  
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/miniprime1&icon=&title=VISIT&edge_flat=false)
+![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:godbros.miniprime@gmail.com)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:miniprime@outlook.com)
+![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=iCloud&logoColor=white&link=mailto:godbros.miniprime@icloud.com)
 
 <br/>
 
