@@ -18,6 +18,7 @@ I’m also interested in movies.
 ![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:godbros.miniprime@gmail.com)
 ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:miniprime@outlook.com)
 ![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=flat&logo=iCloud&logoColor=white&link=mailto:godbros.miniprime@icloud.com)
+![about.me](https://img.shields.io/badge/About.me-3693F3?style=flat&logo=iCloud&logoColor=white&link=https://about.me/miniprime1)
 
 <br/>
 
