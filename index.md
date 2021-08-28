@@ -32,7 +32,6 @@ I’m also interested in movies.
 [![CS](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white)](https://dotnet.microsoft.com/)
 [![Octave](https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=Octave&logoColor=white)](https://www.gnu.org/software/octave/index)
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)<br>
-[![Octave](https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=Octave&logoColor=white)](https://www.gnu.org/software/octave/index)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://devdocs.io/html/)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://devdocs.io/css/)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://devdocs.io/javascript/)
