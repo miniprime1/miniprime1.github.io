@@ -4,9 +4,8 @@
 
 <br/><br/>
 <strong>♡Kyumin♡</strong><br><br>
-Hello, I'm Kyumin [miniprime1].<br>
-I am a fan of programming and games.<br>
-I’m also interested in movies.
+Hello, I'm Kyumin.<br>
+I’m interested in Popcat.
 
 <br/>
 
