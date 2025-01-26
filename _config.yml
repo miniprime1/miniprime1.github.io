@@ -1,6 +1,6 @@
 # Site Settings
 locale                   : "en"
-name                     : "Kyumin's Website"
+name                     : "Kyumin Nam"
 title                    :
 description              : 
 url                      : https://miniprime1.github.io
@@ -13,7 +13,7 @@ repository               : miniprime1/miniprime1.github.io
 # Site Author
 author:
   name             : "Kyumin"
-  bio              : "Hey, I’m Kyumin [miniprime1] living in South Korea. I am a fan of programming and games. I’m also interested in movies."
+  bio              : "Hello, I'm Kyumin, with miniprime1 (or miniprime) as id. I’m interested in mathematics and programming."
 
 # Site Files
 include:
