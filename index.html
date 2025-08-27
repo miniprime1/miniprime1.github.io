@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Kyumin Nam</title>
+    <meta name="description" content="개인 프로필 링크 모음" />
+    <style>
+      :root {
+        --bg: #f6f8fa;
+        --fg: #0b1320;
+        --card: #ffffff;
+        --btn-bg: #376092;
+
+        --btn-fg: #ffffff;
+        --ring: 0 0 0 3px rgba(99, 102, 241, 0.35);
+        --gap: clamp(14px, 4vw, 24px);
+        --size: clamp(64px, 16vw, 96px); /* 터치 타깃 48px+ 권장 기준 충족 */
+      }
+      @media (prefers-color-scheme: dark) {
+        :root { --bg: #0b1320; --fg: #e5e7eb; --card: #0f172a; --btn-bg: #1f2937; --btn-fg: #ffffff; }
+      }
+      * { box-sizing: border-box; }
+      html, body { height: 100%; }
+      body {
+        margin: 0;
+        font-family: ui-sans-serif, system-ui, -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+        background: radial-gradient(1200px 800px at 50% -10%, rgba(99,102,241,.12), transparent 60%), var(--bg);
+        color: var(--fg);
+        display: grid;
+        place-items: center;
+        padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+      }
+      .card {
+        background: var(--card);
+        border: 1px solid rgba(148,163,184,.28);
+        border-radius: 24px;
+        padding: clamp(18px, 4.5vw, 36px);
+        box-shadow: 0 10px 30px rgba(2,6,23,.15);
+        text-align: center;
+        width: min(92vw, 560px);
+      }
+      h1 { font-size: clamp(18px, 5vw, 22px); margin: 0 0 10px 0; letter-spacing: .2px; }
+      p.tagline { margin: 0 0 28px 0; opacity: .75; font-size: clamp(13px, 3.6vw, 14px); }
+
+      .icons {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(var(--size), 1fr));
+        gap: var(--gap);
+        justify-items: center;
+        align-items: center;
+        margin: 6px 0 2px;
+      }
+
+      .btn {
+        width: var(--size);
+        height: var(--size);
+        border-radius: 9999px;
+        display: grid; place-items: center;
+        background: var(--btn-bg);
+        color: var(--btn-fg);
+        border: 1px solid rgba(148,163,184,.35);
+        box-shadow: 0 10px 20px rgba(2,6,23,.22);
+        transition: transform .18s ease, box-shadow .18s ease;
+        text-decoration: none;
+        outline: none;
+        touch-action: manipulation;
+        -webkit-tap-highlight-color: transparent;
+      }
+      @media (hover: hover) {
+        .btn:hover { transform: translateY(-3px) scale(1.03); box-shadow: 0 16px 30px rgba(2,6,23,.28); }
+      }
+      .btn:active { transform: translateY(0) scale(.98); }
+      .btn:focus-visible { box-shadow: 0 16px 30px rgba(2,6,23,.28), var(--ring); }
+      .btn img { width: 44%; height: 44%; display: block; }
+      footer { margin-top: 36px; font-size: 12px; opacity: .6; }
+      .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+
+      @media (prefers-reduced-motion: reduce) {
+        .btn { transition: none; }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="card" role="main">
+      <h1>Kyumin Nam</h1>
+      <p class="tagline">ICPA '11</p>
+
+      <div class="icons" aria-label="소셜 링크 모음">
+        <!-- ORCID -->
+        <a class="btn" href="https://orcid.org/0000-0002-1152-8471" target="_blank" rel="me noopener noreferrer" aria-label="ORCID">
+          <img alt="ORCID" src="https://cdn.simpleicons.org/orcid/FFFFFF" />
+          <span class="sr-only">ORCID</span>
+        </a>
+        <!-- GitHub -->
+        <a class="btn" href="https://github.com/miniprime1" target="_blank" rel="me noopener noreferrer" aria-label="GitHub">
+          <img alt="GitHub" src="https://cdn.simpleicons.org/github/FFFFFF" />
+          <span class="sr-only">GitHub</span>
+        </a>
+      <!-- Gmail -->
+        <a class="btn" href="mailto:godbros.miniprime@gmail.com" aria-label="Email">
+          <img alt="Gmail" src="https://cdn.simpleicons.org/gmail/FFFFFF" />
+          <span class="sr-only">Email</span>
+        </a>
+      <!-- Instagram -->
+        <a class="btn" href="https://instagram.com/miniprime1" target="_blank" rel="me noopener noreferrer" aria-label="Instagram">
+          <img alt="Instagram" src="https://cdn.simpleicons.org/instagram/FFFFFF" />
+          <span class="sr-only">Instagram</span>
+        </a>
+      </div>
+
+      <footer>© <span id="y"></span> Kyumin Nam</footer>
+    </main>
+
+    <script>
+      document.getElementById('y').textContent = new Date().getFullYear();
+    </script>
+  </body>
+</html>
